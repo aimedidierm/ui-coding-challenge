@@ -12,6 +12,7 @@ Welcome to the **Job Listing App**! This project implements a clean and responsi
 
 ### 📂 Folder Structure
 
+```bash
 lib/
 ├── main.dart // Entry point
 ├── models/ // Data models
@@ -25,6 +26,7 @@ lib/
 │ ├── job_card.dart // Job card widget
 │ └── ... // Others
 └── utils/ // Utility files
+```
 
 ### 🛠️ Prerequisites
 
