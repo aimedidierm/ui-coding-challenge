@@ -42,7 +42,7 @@ Before running this project, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/aimedidierm/ui-coding-challenge.git
-   cd job-listing-app
+   cd ui-coding-challenge
    ```
 
 2. **Install Dependencies** 📦
